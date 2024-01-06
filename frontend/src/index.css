@@ -1,0 +1,20 @@
+
+body{
+    height:70px;
+    width: 100%;
+    border: none;
+    background-color: lightgray;
+    position: fixed;
+    left: 0;
+    overflow: hidden;
+    text-align: center;
+    
+    
+    
+    
+}
+
+.icon {
+    cursor: pointer;
+}
+
